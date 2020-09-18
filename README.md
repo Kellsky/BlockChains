@@ -15,3 +15,7 @@ change dep to go mod to manage dependencies, referencing
 
 https://hexiangyu.me/2019/03/25/migrating-projects-from-dep-to-go-modules/
 
+中文版的可以参考
+
+https://github.com/kevin-hf/kongyixueyuan
+
